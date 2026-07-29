@@ -1,19 +1,33 @@
 {
   "id": "tflix-engine",
-  "name": "TFlix Engine",
+  "name": "Jimflix",
   "version": "1.2.0",
   "type": "extension",
   "description": "Spatial navigation engine for cineby.at / cineby.gd",
-  "match": ["*://cineby.at/*", "*://cineby.gd/*"],
+  "match": [
+    "*://cineby.at/*",
+    "*://cineby.gd/*"
+  ],
   "run_at": "document_end",
   "js": ["TFlixEngine.js"],
-  "update_url": "https://github.com/junglej1m/jimflix/releases/latest/download/tflix-engine.zip",
   "keys": [
-    "Left","Up","Right","Down","Enter","Return",
-    "MediaPlayPause","MediaPlay","MediaPause","MediaStop",
-    "MediaFastForward","MediaRewind",
-    "ColorF0Red","ColorF1Green","ColorF2Yellow","ColorF3Blue",
-    "ChannelUp","ChannelDown"
+    "Left",
+    "Up",
+    "Right",
+    "Down",
+    "Enter",
+    "Return",
+    "MediaPlayPause",
+    "MediaPlay",
+    "MediaPause",
+    "MediaStop",
+    "MediaFastForward",
+    "MediaRewind",
+    "ColorF0Red",
+    "ColorF1Green",
+    "ColorF2Yellow",
+    "ColorF3Blue",
+    "ChannelUp",
+    "ChannelDown"
   ]
 }
-
