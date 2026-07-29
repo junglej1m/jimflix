@@ -1,0 +1,28 @@
+{
+  "name": "tflix-engine",
+  "version": "1.1.0",
+  "appName": "TFlix Engine",
+  "packageType": "mods",
+  "websiteURL": "https://www.cineby.at",
+  "main": "TFlixEngine.js",
+  "keys": [
+    "Left",
+    "Up",
+    "Right",
+    "Down",
+    "Enter",
+    "Return",
+    "MediaPlayPause",
+    "MediaPlay",
+    "MediaPause",
+    "MediaStop",
+    "MediaFastForward",
+    "MediaRewind",
+    "ColorF0Red",
+    "ColorF1Green",
+    "ColorF2Yellow",
+    "ColorF3Blue",
+    "ChannelUp",
+    "ChannelDown"
+  ]
+}
